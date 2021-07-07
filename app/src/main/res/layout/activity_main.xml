@@ -9,10 +9,13 @@
     tools:context=".MainActivity">
 
     <Button
-
         android:id="@+id/buttonSendString"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Send String" />
-
+    <Button
+        android:id="@+id/buttonSendArrayString"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Send Array String" />
 </LinearLayout>
